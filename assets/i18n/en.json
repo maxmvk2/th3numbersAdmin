@@ -6,7 +6,7 @@
   "anms.about.get-notified.title": "Get notified about new releases",
   "anms.about.get-started": "Get started",
 
-  "anms.menu.dashboard": "Dashboard",
+  "anms.menu.statistics": "Statistics",
   "anms.menu.shows": "Shows",
   "anms.menu.features": "Features",
   "anms.menu.settings": "Settings",
@@ -14,11 +14,6 @@
   "anms.menu.components": "Components",
   "anms.menu.login": "Sign in",
   "anms.menu.logout": "Logout",
-
-  "anms.dashboard.analytics": "Analytics",
-  "anms.dashboard.charts": "Charts",
-  "anms.dashboard.tables": "Tables",
-  "anms.dashboard.analytics-not-available": "Analytics not available in this version of admin panel",
 
   "anms.login.title": "Authorization required",
   "anms.login.invalid-name": "Please provide a valid name",
