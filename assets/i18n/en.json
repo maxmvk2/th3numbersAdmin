@@ -6,6 +6,7 @@
   "anms.about.get-notified.title": "Get notified about new releases",
   "anms.about.get-started": "Get started",
 
+  "anms.menu.themes": "Themes",
   "anms.menu.statistics": "Statistics",
   "anms.menu.shows": "Shows",
   "anms.menu.features": "Features",
@@ -23,6 +24,8 @@
   "anms.login.password": "Password",
 
   "anms.shows.title": "Shows",
+
+  "anms.themes.title": "Themes",
 
   "anms.settings.animations.elements": "Navigation page elements slide up",
   "anms.settings.animations.page": "Navigation whole page transition",

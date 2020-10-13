@@ -661,6 +661,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+ngx-color-picker
+MIT
+
+ngx-spinner
+MIT
+
 optimism
 MIT
 MIT License
