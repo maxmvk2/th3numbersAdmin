@@ -192,7 +192,6 @@
       id
       statisticDetailsBackground
       statisticDetailsFontColor
-      closeIconColor
       statisticThemeName
     }
   }
@@ -279,7 +278,6 @@
           id
           statisticDetailsBackground
           statisticDetailsFontColor
-          closeIconColor
           statisticThemeName
         }
         viewed
@@ -304,7 +302,6 @@
       id
       statisticDetailsBackground
       statisticDetailsFontColor
-      closeIconColor
       statisticThemeName
     }
   }
